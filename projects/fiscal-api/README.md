@@ -51,4 +51,3 @@ Historical source references can be incomplete. A guard cannot identify every do
 Start with a timed-out issuance, inspect the state and operation identity, explain why a retry may be unsafe, then show how database guards and reconciliation guide recovery. Discuss both the prevented failure and the situations that still need human judgment.
 
 [Back to portfolio](../../README.md)
-
