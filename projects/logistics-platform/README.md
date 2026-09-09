@@ -46,4 +46,3 @@ These files were inspected for this portfolio; the logistics application and its
 Follow a load from planning to dispatch and delivery. Identify the owner of each relationship, show the mutation boundary, explain what happens when a user submits twice or changes tenant mid-request, and describe how support investigates inconsistent state.
 
 [Back to portfolio](../../README.md)
-
