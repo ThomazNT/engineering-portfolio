@@ -32,4 +32,3 @@ This case is based on source inspection of the two applications, including the a
 The customer application contains Capacitor dependencies; this is not presented as React Native experience. No station count, transaction volume or uptime metric is included.
 
 [Back to portfolio](../../README.md)
-
